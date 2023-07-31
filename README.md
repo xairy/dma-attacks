@@ -3,6 +3,8 @@ DMA Attacks
 
 Materials for my "Introduction to PCIe and DMA attacks" talk.
 
+Also see [xairy/usb-hacking](https://github.com/xairy/usb-hacking).
+
 Last iteration of the talk:
 
 * [PHDays 2019](https://docs.google.com/presentation/d/1Hn9RGrp2DEuAqOfytizPtCm98qti0T5tlUb6jFs-068/edit?usp=sharing) [slides] [[video](https://www.youtube.com/watch?v=zY1VBtKVDi0)]
