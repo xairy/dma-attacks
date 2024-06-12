@@ -1,13 +1,11 @@
 DMA Attacks
 ===========
 
-Materials for my "Introduction to PCIe and DMA attacks" talk.
+Materials for my "Introduction to PCIe and DMA attacks" talk ([slides](https://docs.google.com/presentation/d/1Hn9RGrp2DEuAqOfytizPtCm98qti0T5tlUb6jFs-068/edit?usp=sharing), [video](https://www.youtube.com/watch?v=zY1VBtKVDi0)).
 
-Also see [xairy/usb-hacking](https://github.com/xairy/usb-hacking).
+Also see [xairy/usb-hacking](https://github.com/xairy/usb-hacking) for my "Introduction to USB hacking" talk.
 
-Last iteration of the talk:
-
-* [PHDays 2019](https://docs.google.com/presentation/d/1Hn9RGrp2DEuAqOfytizPtCm98qti0T5tlUb6jFs-068/edit?usp=sharing) [slides] [[video](https://www.youtube.com/watch?v=zY1VBtKVDi0)]
+Below is a list of links related to DMA attacks.
 
 ## Overview
 
