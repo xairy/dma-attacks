@@ -9,6 +9,12 @@ Below is a list of links related to DMA attacks.
 
 ## Overview
 
+[2024: "Learning about PCI-e: Implementing an option ROM" by David V](https://blog.davidv.dev/posts/pcie-option-rom/) [article]
+
+[2024: "Learning about PCI-e: Driver & DMA" by David V](https://blog.davidv.dev/posts/pcie-driver-dma/) [article]
+
+[2024: "Learning about PCI-e: Emulating a custom device" by David V](https://blog.davidv.dev/posts/learning-pcie/) [article]
+
 [2020: "DMA explained"](https://astralvx.com/dma-explained/) [article]
 
 [2017: "Practical introduction to PCI Express with FPGAs" by Michal Husejko and John Evans](https://indico.cern.ch/event/121654/attachments/68430/98164/Practical_introduction_to_PCI_Express_with_FPGAs_-_Extended.pdf) [slides]
@@ -28,6 +34,12 @@ Below is a list of links related to DMA attacks.
 [Ulf Frisk](https://twitter.com/ulffrisk) [twitter]
 
 [Dmytro Oleksiuk](https://twitter.com/d_olex) [twitter]
+
+[2026: "About PCIe DMA Cheats: Protocol, IOMMU, Hardware, and Detection" by kernullist](https://kernullist.github.io/kernullist-blog/posts/pcie-dma-cheats/) [article]
+
+[2024: "New dog, old tricks: DaMAgeCard attack targets memory directly thru SD card reader" by gesser](https://ptswarm.com/blog/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/) [article]
+
+[2024: "DMAAUTH: A Lightweight Pointer Integrity-based Secure Architecture to Defeat DMA Attacks" by Xingkai Wang et al.](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-xingkai) [[paper](https://www.usenix.org/system/files/usenixsecurity24-wang-xingkai.pdf)] [[slides](https://www.usenix.org/system/files/usenixsecurity24_slides-wang-xingkai.pdf)] [[video](https://www.youtube.com/watch?v=kc3qtpWkrkQ)]
 
 [2022: "PCIe DMA Attack against a secured Jetson Nano (CVE-2022-21819)"](https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/) [article]
 
@@ -103,7 +115,7 @@ Below is a list of links related to DMA attacks.
 
 [2023: "PCI Express To Hell" by Gynvael Coldwind](https://www.youtube.com/watch?v=fE0fnGbI8B8)
 
-[2021: "Fuzzing Linux with Xen" by Tamas K Lengyel](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Tamas%20K%20Lengyel%20-%20Fuzzing%20Linux%20with%20Xen.pdf) [slides] [[video](https://www.youtube.com/watch?v=_dXC_I2ybr4)
+[2021: "Fuzzing Linux with Xen" by Tamas K Lengyel](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Tamas%20K%20Lengyel%20-%20Fuzzing%20Linux%20with%20Xen.pdf) [slides] [[video](https://www.youtube.com/watch?v=_dXC_I2ybr4)]
 
 [2021: "An Introduction to IOMMU Infrastructure in the Linux Kernel"](https://lenovopress.lenovo.com/lp1467.pdf) [article]
 
@@ -128,3 +140,5 @@ https://github.com/carmaa/inception
 https://github.com/defparam/BAR-Tender
 
 https://github.com/Cr4sh/pico_dma
+
+[EPIC Erebus (M.2 FPGA for PCIe research and DMA attacks)](https://www.crowdsupply.com/securinghw/epic-erebus)
